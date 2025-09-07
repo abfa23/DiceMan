@@ -31,7 +31,7 @@ public class DiceMan {
 // * class er en ny klasse med navnet Dice Man
 // * public DiceMan() er en konstruktør, der laver et nyt objekt med DiceMan
 // * {} krøllede parenteser, der viser, hvor en klasse eller metode slutter
-// * void betyder, at metoden ikke returner noget tilbage
+// * void betyder, at metoden ikke returnerer noget tilbage
 // * lavAktivitet er en metode med parameter (inputværdi) kaldet dice
 // * if (...) { ... } else if (...) { ... } betyder, "hvis dette gælder, gør dette eller prøv næste".
 // * System.out,println(...) printer tekst ud i konsollen
