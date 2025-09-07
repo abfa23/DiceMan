@@ -28,25 +28,6 @@ public class Dice {
                     System.out.println("Mr. DiceMan went back to sleep");
                     break;
                 }
-            switch (numbers) {
-                case 1:
-                    System.out.println("DiceMan eats breakfast.");
-                    break;
-                case 2:
-                    System.out.println("DiceMan studies something boring.");
-                    break;
-                case 3:
-                    System.out.println("DiceMan goes swimming.");
-                    break;
-                case 4:
-                    System.out.println("DiceMan goes fishing.");
-                    break;
-                case 5:
-                    System.out.println("DiceMan calls his mom.");
-                    break;
-                case 6:
-                    System.out.println("DiceMan goes back to bed.");
-            }
         }
     }
 }
