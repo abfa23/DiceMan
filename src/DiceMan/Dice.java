@@ -18,14 +18,14 @@ public class Dice {
         int i = 1;
         while (i <= throwCount) {
             numbers = dice.nextInt(6) + 1;
-            System.out.println("Throw count: " + i);
-            System.out.println("The number: " + numbers + " rolled.");
+            System.out.println("Terning kast: " + i);
+            System.out.println("Nummer: " + numbers + " blev slået.");
             i++;
             if (numbers == 6) {
                 sixCounter++;
             }
                 if (sixCounter == 3) {
-                    System.out.println("Mr. DiceMan went back to sleep");
+                    System.out.println("Hr. DiceMan blev for doven og blev i sengen forevigt.");
                     break;
                 }
         }
