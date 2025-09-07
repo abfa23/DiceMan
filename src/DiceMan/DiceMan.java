@@ -8,18 +8,18 @@ public class DiceMan {
     }
 
     // Metode, der bestemmer, hvad Dice Man gør, når han kaster en terning
-    public void lavAktivitet(int dice) {
-        if (dice == 1) {
+    public void lavAktivitet(int numbers) {
+        if (numbers == 1) {
             System.out.println("Spiser morgenmad");
-        } else if (dice == 2) {
+        } else if (numbers == 2) {
             System.out.println("Studerer noget kedeligt");
-        } else if (dice == 3) {
+        } else if (numbers == 3) {
             System.out.println("Svommer");
-        } else if (dice == 4) {
+        } else if (numbers == 4) {
             System.out.println("Fisker");
-        } else if (dice == 5) {
+        } else if (numbers == 5) {
             System.out.println("Ringer til sin mor");
-        } else if (dice == 6) {
+        } else if (numbers == 6) {
             System.out.println("Gar tilbage i seng");
           }
     }
