@@ -35,4 +35,4 @@ public class DiceMan {
 // * lavAktivitet er en metode med parameter (inputværdi) kaldet dice
 // * if (...) { ... } else if (...) { ... } betyder, "hvis dette gælder, gør dette eller prøv næste".
 // * System.out,println(...) printer tekst ud i konsollen
-// (dice == 6), hvor == ikke er det samme som =. = sætter en værdi fx hvis = 6 ville terningens værdi være 6, men == betyder, "er dice lig med 6? I så fald udfør koden
+// (numbers == 6), hvor == ikke er det samme som =. = sætter en værdi fx hvis = 6 ville terningens værdi være 6, men == betyder, "er dice lig med 6? I så fald udfør koden
